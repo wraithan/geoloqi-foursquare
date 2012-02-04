@@ -1,3 +1,4 @@
+-i http://simple.crate.io/
 Django==1.3.1
 django-annoying==0.7.6
 requests==0.10.1
